@@ -1,0 +1,179 @@
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\obj\Debug\GSWEB.Resources.resources
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\obj\Debug\GSWEB.vbproj.GenerateResource.Cache
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\bin\Debug\GSWEB.dll
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\bin\Debug\GSWEB.pdb
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\bin\Debug\GSWEB.xml
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\bin\Debug\Ionic.Zip.dll
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\bin\Debug\System.Net.Http.Formatting.dll
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\bin\Debug\System.Web.Http.dll
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\bin\Debug\Yahoo.Yui.Compressor.dll
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\bin\Debug\EcmaScript.NET.dll
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\bin\Debug\Ionic.Zip.xml
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\bin\Debug\System.Net.Http.Formatting.xml
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\bin\Debug\System.Web.Http.xml
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\obj\Debug\GSWEB.dll
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\obj\Debug\GSWEB.xml
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\obj\Debug\GSWEB.pdb
+G:\InSysStandard 2014\WEB Standard\GSWEB\GSWEB\obj\Debug\GSWEB.vbprojResolveAssemblyReference.cache
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\bin\Debug\GSWEB.dll
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\bin\Debug\GSWEB.pdb
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\bin\Debug\GSWEB.xml
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\bin\Debug\Ionic.Zip.dll
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\bin\Debug\System.Net.Http.Formatting.dll
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\bin\Debug\System.Web.Http.dll
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\bin\Debug\Yahoo.Yui.Compressor.dll
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\bin\Debug\EcmaScript.NET.dll
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\bin\Debug\System.Net.Http.Formatting.xml
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\bin\Debug\System.Web.Http.xml
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\obj\Debug\GSWEB.Resources.resources
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\obj\Debug\GSWEB.vbproj.GenerateResource.Cache
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\obj\Debug\GSWEB.dll
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\obj\Debug\GSWEB.xml
+G:\TEAM PROJECTS\InSys Web 2016\GSWEB\obj\Debug\GSWEB.pdb
+D:\Randy\InSys Web\InSys Web 2016\GSWEB\bin\Debug\GSWEB.dll
+D:\Randy\InSys Web\InSys Web 2016\GSWEB\bin\Debug\GSWEB.pdb
+D:\Randy\InSys Web\InSys Web 2016\GSWEB\bin\Debug\GSWEB.xml
+D:\Randy\InSys Web\InSys Web 2016\GSWEB\bin\Debug\Ionic.Zip.dll
+D:\Randy\InSys Web\InSys Web 2016\GSWEB\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\Randy\InSys Web\InSys Web 2016\GSWEB\bin\Debug\EcmaScript.NET.dll
+D:\Randy\InSys Web\InSys Web 2016\GSWEB\obj\Debug\GSWEB.vbprojResolveAssemblyReference.cache
+D:\Randy\InSys Web\InSys Web 2016\GSWEB\obj\Debug\GSWEB.Resources.resources
+D:\Randy\InSys Web\InSys Web 2016\GSWEB\obj\Debug\GSWEB.vbproj.GenerateResource.Cache
+D:\Randy\InSys Web\InSys Web 2016\GSWEB\obj\Debug\GSWEB.dll
+D:\Randy\InSys Web\InSys Web 2016\GSWEB\obj\Debug\GSWEB.xml
+D:\Randy\InSys Web\InSys Web 2016\GSWEB\obj\Debug\GSWEB.pdb
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\bin\Debug\GSWEB.dll
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\bin\Debug\GSWEB.pdb
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\bin\Debug\GSWEB.xml
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\bin\Debug\Ionic.Zip.dll
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\bin\Debug\System.Net.Http.Formatting.dll
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\bin\Debug\System.Web.Http.dll
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\bin\Debug\Yahoo.Yui.Compressor.dll
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\bin\Debug\EcmaScript.NET.dll
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\bin\Debug\System.Net.Http.Formatting.xml
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\bin\Debug\System.Web.Http.xml
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\obj\Debug\GSWEB.vbprojResolveAssemblyReference.cache
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\obj\Debug\GSWEB.Resources.resources
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\obj\Debug\GSWEB.vbproj.GenerateResource.Cache
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\obj\Debug\GSWEB.dll
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\obj\Debug\GSWEB.xml
+G:\TEAM PROJECTS\InSys Web2 2016\InSys Web 2016\GSWEB\obj\Debug\GSWEB.pdb
+D:\INSYS WEB\GSWEB\bin\Debug\GSWEB.dll
+D:\INSYS WEB\GSWEB\bin\Debug\GSWEB.pdb
+D:\INSYS WEB\GSWEB\bin\Debug\GSWEB.xml
+D:\INSYS WEB\GSWEB\bin\Debug\Ionic.Zip.dll
+D:\INSYS WEB\GSWEB\bin\Debug\System.Net.Http.Formatting.dll
+D:\INSYS WEB\GSWEB\bin\Debug\System.Web.Http.dll
+D:\INSYS WEB\GSWEB\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\INSYS WEB\GSWEB\bin\Debug\EcmaScript.NET.dll
+D:\INSYS WEB\GSWEB\bin\Debug\System.Net.Http.Formatting.xml
+D:\INSYS WEB\GSWEB\bin\Debug\System.Web.Http.xml
+D:\INSYS WEB\GSWEB\obj\Debug\GSWEB.vbprojResolveAssemblyReference.cache
+D:\INSYS WEB\GSWEB\obj\Debug\GSWEB.Resources.resources
+D:\INSYS WEB\GSWEB\obj\Debug\GSWEB.vbproj.GenerateResource.Cache
+D:\INSYS WEB\GSWEB\obj\Debug\GSWEB.dll
+D:\INSYS WEB\GSWEB\obj\Debug\GSWEB.xml
+D:\INSYS WEB\GSWEB\obj\Debug\GSWEB.pdb
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\bin\Debug\GSWEB.dll
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\bin\Debug\GSWEB.pdb
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\bin\Debug\GSWEB.xml
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\bin\Debug\Ionic.Zip.dll
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\bin\Debug\System.Net.Http.Formatting.dll
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\bin\Debug\System.Web.Http.dll
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\bin\Debug\EcmaScript.NET.dll
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\bin\Debug\System.Net.Http.Formatting.xml
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\bin\Debug\System.Web.Http.xml
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\obj\Debug\GSWEB.vbprojResolveAssemblyReference.cache
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\obj\Debug\GSWEB.Resources.resources
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\obj\Debug\GSWEB.vbproj.GenerateResource.Cache
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\obj\Debug\GSWEB.dll
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\obj\Debug\GSWEB.xml
+D:\PROJECTS\INSYS NEW WORLD\SOLUTIONS\GSWEB\obj\Debug\GSWEB.pdb
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\bin\Debug\GSWEB.dll
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\bin\Debug\GSWEB.pdb
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\bin\Debug\GSWEB.xml
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\bin\Debug\Ionic.Zip.dll
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\bin\Debug\System.Net.Http.Formatting.dll
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\bin\Debug\System.Web.Http.dll
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\bin\Debug\Yahoo.Yui.Compressor.dll
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\bin\Debug\EcmaScript.NET.dll
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\bin\Debug\System.Net.Http.Formatting.xml
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\bin\Debug\System.Web.Http.xml
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\bin\Debug\Microsoft.Web.Infrastructure.xml
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\obj\Debug\GSWEB.vbprojResolveAssemblyReference.cache
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\obj\Debug\GSWEB.Resources.resources
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\obj\Debug\GSWEB.vbproj.GenerateResource.Cache
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\obj\Debug\GSWEB.dll
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\obj\Debug\GSWEB.xml
+\\192.168.28.42\Dev Files\Solutions\IONS Standard\SOLUTIONS\GSWEB\obj\Debug\GSWEB.pdb
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Debug\GSWEB.dll
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Debug\GSWEB.pdb
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Debug\GSWEB.xml
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Debug\Ionic.Zip.dll
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Debug\EcmaScript.NET.dll
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\obj\Debug\GSWEB.vbprojResolveAssemblyReference.cache
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\obj\Debug\GSWEB.Resources.resources
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\obj\Debug\GSWEB.vbproj.GenerateResource.Cache
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\obj\Debug\GSWEB.dll
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\obj\Debug\GSWEB.xml
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\obj\Debug\GSWEB.pdb
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Debug\GSWEB.dll
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Debug\GSWEB.pdb
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Debug\GSWEB.xml
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Debug\Ionic.Zip.dll
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Debug\EcmaScript.NET.dll
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\obj\Debug\GSWEB.Resources.resources
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\obj\Debug\GSWEB.vbproj.GenerateResource.Cache
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\obj\Debug\GSWEB.dll
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\obj\Debug\GSWEB.xml
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\obj\Debug\GSWEB.pdb
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Debug\GSWEB.dll
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Debug\GSWEB.pdb
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Debug\GSWEB.xml
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Debug\Ionic.Zip.dll
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Debug\Yahoo.Yui.Compressor.dll
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Debug\EcmaScript.NET.dll
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Debug\GSWEB.vbprojResolveAssemblyReference.cache
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Debug\GSWEB.Resources.resources
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Debug\GSWEB.vbproj.GenerateResource.Cache
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Debug\GSWEB.dll
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Debug\GSWEB.xml
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Debug\GSWEB.pdb
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Debug\GSWEB.pdb
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Debug\GSWEB.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Debug\Ionic.Zip.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Debug\EcmaScript.NET.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Debug\GSWEB.vbprojResolveAssemblyReference.cache
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Debug\GSWEB.Resources.resources
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Debug\GSWEB.vbproj.GenerateResource.Cache
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Debug\GSWEB.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Debug\GSWEB.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Debug\GSWEB.pdb
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Debug\GSWEB.pdb
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Debug\GSWEB.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Debug\Ionic.Zip.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Debug\Yahoo.Yui.Compressor.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Debug\EcmaScript.NET.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\obj\Debug\GSWEB.vbprojResolveAssemblyReference.cache
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\obj\Debug\GSWEB.Resources.resources
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\obj\Debug\GSWEB.vbproj.GenerateResource.Cache
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\obj\Debug\GSWEB.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\obj\Debug\GSWEB.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\obj\Debug\GSWEB.pdb
+C:\Git\Clients\NewGolden\Development\Solution\Web\GSWEB\bin\Debug\GSWEB.pdb
+C:\Git\Clients\NewGolden\Development\Solution\Web\GSWEB\bin\Debug\GSWEB.xml
+C:\Git\Clients\NewGolden\Development\Solution\Web\GSWEB\bin\Debug\Ionic.Zip.dll
+C:\Git\Clients\NewGolden\Development\Solution\Web\GSWEB\bin\Debug\Yahoo.Yui.Compressor.dll
+C:\Git\Clients\NewGolden\Development\Solution\Web\GSWEB\bin\Debug\EcmaScript.NET.dll
+C:\Git\Clients\NewGolden\Development\Solution\Web\GSWEB\obj\Debug\GSWEB.vbprojAssemblyReference.cache
+C:\Git\Clients\NewGolden\Development\Solution\Web\GSWEB\obj\Debug\GSWEB.Resources.resources
+C:\Git\Clients\NewGolden\Development\Solution\Web\GSWEB\obj\Debug\GSWEB.vbproj.GenerateResource.cache
+C:\Git\Clients\NewGolden\Development\Solution\Web\GSWEB\obj\Debug\GSWEB.vbproj.CopyComplete
+C:\Git\Clients\NewGolden\Development\Solution\Web\GSWEB\obj\Debug\GSWEB.dll
+C:\Git\Clients\NewGolden\Development\Solution\Web\GSWEB\obj\Debug\GSWEB.xml
+C:\Git\Clients\NewGolden\Development\Solution\Web\GSWEB\obj\Debug\GSWEB.pdb

@@ -1,0 +1,23 @@
+NGCB Pre Requisite of Change Request | 02-27-2020
+================================
+Task                          Work Around
+Processing TK                 Cut off Maintenance
+Processing Payroll            Cut off Maintenance / considered effectivity date / Income and Deduction
+Reports                       Revised Procedure for InactiveEmp,old Proj, RowData filed
+
+
+Emp Movement type Applicable to NGCB
+
+Salary Increase 
+Company Transfer
+Branch Transfer AKA Change of Project (New)
+Change Department
+Change Designation
+Change Division
+Employee Status Change
+Regularization Adjustment
+Promotion
+Correction 
+Terminated
+Newly Hired
+Demotionable

@@ -1,0 +1,1 @@
+alter table temployeedailyschedule ADD Attempts tinyint null

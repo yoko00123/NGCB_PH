@@ -1,0 +1,42 @@
+﻿<!-- CALENDAR -->
+<div class="col-md-12" style="background-color: #ffffff;">
+    <div class="well well-light no-margin no-padding" style="padding-top: 0px!important;">
+        <div class="maincontainer clearfix" style="background-color: #ffffff; border: 0px;">
+            <div class="col-md-12">
+                <h2 class="text-center">
+                    <select ng-model="Master.calendarEmployee" ng-change="gotoMonth()" ng-options="m.ID as m.Name for m in EmployeeSource"></select>
+                    &nbsp;
+                    <select ng-model="Master.calendarMonth" ng-change="gotoMonth()" ng-options="m.ID as m.Name for m in months"></select>
+                    &nbsp;
+                    <select ng-model="Master.calendarYear" ng-change="gotoYear()" ng-options="m.ID as m.Name for m in years"></select>
+                </h2>
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <div class="btn-group">
+                            <button class="btn btn-primary" ng-click="prev()">Previous</button>
+                            <button class="btn btn-default" ng-click="setCalendarToToday()">Today</button>
+                            <button class="btn btn-primary" ng-click="next()">Next</button>
+                        </div>
+                    </div>
+                    <br class="visible-xs visible-sm">
+                </div>
+                <br />
+                <ng-calendar
+                    calendar-events="events"
+                    calendar-view="calendarView"
+                    calendar-current-day="calendarDay"
+                    calendar-control="Master.calendarControl"
+                    calendar-event-click="eventClicked($event)"
+                    calendar-edit-event-html="'<i class=\'glyphicon glyphicon-pencil\'></i>'"
+                    calendar-delete-event-html="'<i class=\'glyphicon glyphicon-remove\'></i>'"
+                    calendar-edit-event-click="eventEdited($event)"
+                    calendar-delete-event-click="eventDeleted($event)"
+                    calendar-auto-open="false"
+                    calendar-cell-template="'Dialogs/calendarCell.html'"
+                    calendar-main-event="mainEvent">
+                </ng-calendar>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- CALENDAR -->

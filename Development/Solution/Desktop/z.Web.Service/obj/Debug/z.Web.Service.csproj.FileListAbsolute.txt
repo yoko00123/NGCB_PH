@@ -1,0 +1,5 @@
+D:\HANA\Dev Files\InSys NGCB\InSys NewGolden\z.Web.Service\bin\Debug\z.Web.Service.dll
+D:\HANA\Dev Files\InSys NGCB\InSys NewGolden\z.Web.Service\bin\Debug\z.Web.Service.pdb
+D:\HANA\Dev Files\InSys NGCB\InSys NewGolden\z.Web.Service\bin\Debug\Newtonsoft.Json.dll
+D:\HANA\Dev Files\InSys NGCB\InSys NewGolden\z.Web.Service\obj\Debug\z.Web.Service.dll
+D:\HANA\Dev Files\InSys NGCB\InSys NewGolden\z.Web.Service\obj\Debug\z.Web.Service.pdb

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GSCOM.Applications.InSys
+</name>
+</assembly>
+<members>
+<member name="T:GSCOM.Applications.InSys.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:GSCOM.Applications.InSys.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:GSCOM.Applications.InSys.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:GSCOM.Applications.InSys.My.Resources.Resources.RSAKeyValue">
+<summary>
+  Looks up a localized string similar to &lt;RSAKeyValue&gt;&lt;Modulus&gt;yNd5vuGvSDusOVQMFNUOWNHFPxuvCQXZ393AqK/m/Suzt7zyGoAxFdXgp0n375v/Y16zL4wBmVGxbHf4lFuHAl7+FoFEFhfIGZ3v9ULuJUxwf+7G5blNdfjzPmG70mDQZT630VZWLXKbp5tffzmA99cRCs2vIpBAG5TsryMptuM=&lt;/Modulus&gt;&lt;Exponent&gt;AQAB&lt;/Exponent&gt;&lt;P&gt;7W06kma1xeYqtIB3wAP2UjAVlkg5Pc78JKMQpRFspLVeUHUnX6EFk+6XPtqedIvTUU8Rwu/LK6qB3WV3xgybNQ==&lt;/P&gt;&lt;Q&gt;2I2WDQpERT6RqPVP0oNH8kETyOGJfaqD0gYb2ZzRsx0mI/2BLQoyWNedB1o6zfvpuR+OJo+sq462QIwxciA0tw==&lt;/Q&gt;&lt;DP&gt;k4B3kfqDVTYgM9FYFA+iGP9MeffWsAKGfRBdR9+iWlVfCacu1edIetYQWnkhVhCEMRBpXWzyEOe2FGB0X7L3PQ==&lt; [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="M:GSCOM.Applications.InSys.InfoForm.RearrangeTab(System.Boolean)">
+ <summary>
+ LJ 20140526
+ </summary>
+ <param name="orderbyascending"></param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

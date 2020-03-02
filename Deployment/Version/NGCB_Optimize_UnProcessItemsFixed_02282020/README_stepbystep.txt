@@ -1,0 +1,5 @@
+--1st step set data retention to 90 days only, once execute proceed to 2nd step
+--2nd step Database Shrinking / not files DB only.  once finish, next step
+--3rd step rebuild index using  002 - Rebuild and Reorganize Index.sql. once finish, next step
+--4th step patch the 1st-Attempts.sql and 2nd-pComputeHours.sql last 001_IONS_StraightDuty_OT.sql
+--5th step Check the TK Processing

@@ -1,0 +1,1 @@
+"use strict";define(["app"],function(a){});

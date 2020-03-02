@@ -1,0 +1,228 @@
+﻿.fixed-navigation nav {
+    -webkit-overflow-scrolling: touch;
+    overflow-y: auto;
+    height: 100%
+}
+.fixed-navigation nav>ul {
+    padding-right: 15px;
+    position: relative;
+    height: 100%;
+    width: 114%;
+    overflow-x: hidden;
+    overflow-y: scroll
+}
+.mobile-detected.fixed-navigation nav>ul {
+    padding-right: 30px!important
+}
+.minified.fixed-navigation nav {
+    -webkit-overflow-scrolling: none;
+    overflow: visible;
+    height: auto;
+    padding-bottom: 0
+}
+.minified.fixed-navigation nav>ul {
+    overflow: visible;
+    padding-right: 0;
+    width: 100%
+}
+nav ul li a:active {
+    background: #616161!important
+}
+nav ul {
+    width: 100%;
+    padding: 40px 28px 25px 0;
+    padding: 0;
+    margin: 0;
+    font-size: 13px;
+    line-height: .5em;
+    list-style: none;
+    position: relative
+}
+nav ul .active>a {
+    color: #fff!important;
+    position: relative
+}
+nav ul li.active>a:before {
+    content: "\f0d9";
+    font-family: FontAwesome;
+    display: block;
+    height: 27px;
+    line-height: normal;
+    width: 27px;
+    position: absolute;
+    right: -21px;
+    font-size: 20px;
+    color: #eee
+}
+nav ul li.active.open>a:before {
+    content: ''
+}
+nav>ul>li:last-child.open {
+    border-bottom: 1px solid rgba(255, 255, 255, .15)
+}
+nav ul li {
+    overflow: hidden
+}
+nav ul li a {
+    line-height: normal;
+    font-size: 14px;
+    padding: 10px 10px 10px 11px;
+    color: #a8a8a8;
+    display: block;
+    font-weight: 400;
+    text-decoration: none!important;
+    position: relative
+}
+nav>ul>li>ul>li>a,
+nav>ul>li>ul>li>ul>li>a {
+    padding-top: 7px;
+    padding-bottom: 7px
+}
+nav ul li a:focus {
+    color: #c9c9c9
+}
+nav ul li a:hover {
+    color: #fff;
+    text-decoration: none
+}
+nav ul b {
+    float: right;
+    font-size: 11px;
+    margin-top: 2px
+}
+nav ul span.menu-item-parent {
+    display: inline-block;
+    margin: 0;
+    padding: 0
+}
+nav ul li.open>a,
+nav ul li.open>a b {
+    color: #fff!important
+}
+nav>ul>li>a b {
+    position: absolute!important;
+    right: 10px;
+    top: 10px
+}
+nav>ul>li>a>i {
+    margin-right: 5px;
+    width: 15px;
+    display: inline-block;
+    text-align: center;
+    position: relative
+}
+nav>ul>li>a>i>em {
+    font-size: 9px;
+    display: block;
+    padding: 2px;
+    position: absolute;
+    top: -8px;
+    right: -6px;
+    text-decoration: none;
+    font-style: normal;
+    background: #ED1C24;
+    color: #fff;
+    min-width: 13px;
+    border-radius: 50%;
+    max-height: 13px;
+    line-height: 8px;
+    font-weight: 700;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, .1)
+}
+nav ul li li {
+    border-bottom: none;
+    position: relative
+}
+nav>ul>li>ul::before {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 1;
+    left: 23px;
+    top: 0;
+    bottom: 0;
+    border-left: 1px solid #7A7A7A
+}
+nav>ul ul li::before {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 8px;
+    left: 23px;
+    top: 16px;
+    border-top: 1px solid #7A7A7A;
+    z-index: 1
+}
+nav>ul ul ul li::before {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 18px;
+    left: 10px;
+    top: 17px;
+    border-top: 1px solid transparent
+}
+nav>ul ul li a i {
+    font-size: 14px!important;
+    width: 18px!important;
+    text-align: center!important;
+    vertical-align: 0!important;
+    line-height: 1!important
+}
+nav>ul>li:hover>ul::before,
+nav>ul>li:hover>ul>li::before {
+    border-color: #ACACAC!important
+}
+nav ul ul {
+    margin: 0;
+    display: none;
+    background: rgba(69, 69, 69, .6);
+    padding: 7px 0
+}
+nav ul ul ul {
+    background: 0 0;
+    padding: 0
+}
+nav ul ul li {
+    margin: 0;
+    padding: 0
+}
+nav ul ul li>a {
+    padding-left: 42px;
+    font-size: 14px;
+    font-weight: 400;
+    outline: 0
+}
+nav ul ul li>a:hover {
+    background-color: rgba(69, 69, 69, .8);
+    color: #fff
+}
+nav ul ul ul li a {
+    color: #bfbfbf;
+    padding: 8px 10px 8px 60px;
+    font-size: 14px
+}
+nav ul ul ul li a:hover {
+    background-color: #4C4F53;
+    color: #fff
+}
+nav ul ul ul ul li a {
+    padding-left: 80px
+}
+nav ul ul ul ul ul li a {
+    padding-left: 100px
+}
+nav ul ul ul ul ul ul li a {
+    padding-left: 120px
+}
+nav ul ul b {
+    color: #B3B3B3
+}
+nav ul ul>li:hover b {
+    color: #D5D9E2
+}
+
+.menu-on-top #main { margin-top: 42px!important; }

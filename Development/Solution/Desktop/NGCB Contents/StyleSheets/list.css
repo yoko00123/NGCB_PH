@@ -1,0 +1,79 @@
+body
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 7pt;
+	margin: 0;
+}
+
+pre
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 7pt;
+	white-space: pre-wrap; /* CSS3 - Text module (Candidate Recommendation) http://www.w3.org/TR/css3-text/#white-space */
+	word-wrap: break-word; /* IE 5.5+ */
+}
+
+table
+{
+	border-collapse: collapse;
+	
+
+}
+
+td
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 7pt;
+	font-weight: normal;
+}
+
+th
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 7pt;
+	
+}
+
+font.zName
+{
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+
+td.zProperty
+{
+	
+	font-weight: bold;
+	text-align: right;
+	width: 100;
+}
+
+td.zValue
+{
+	text-align: left;
+}
+
+td.zValueR
+{
+	text-align: right;
+}
+
+
+div.zGroup
+{
+	color: white;
+	background-color: rgb(70,130,180); 
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+}
+
+div.zhelpgroup
+{
+	color: white;
+	background-color: rgb(50,160,50); 
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+}

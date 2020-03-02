@@ -1,0 +1,79 @@
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Release\GSWEB.dll
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Release\GSWEB.pdb
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Release\GSWEB.xml
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Release\Ionic.Zip.dll
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Release\Newtonsoft.Json.dll
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Release\System.Web.Optimization.dll
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Release\Yahoo.Yui.Compressor.dll
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\bin\Release\EcmaScript.NET.dll
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\obj\Release\GSWEB.Resources.resources
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\obj\Release\GSWEB.vbproj.GenerateResource.Cache
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\obj\Release\GSWEB.dll
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\obj\Release\GSWEB.xml
+D:\CATHERINE\Projects\HolidayInnMakati\SOLUTIONS\GSWEB\obj\Release\GSWEB.pdb
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Release\GSWEB.dll
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Release\GSWEB.pdb
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Release\GSWEB.xml
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Release\Ionic.Zip.dll
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Release\Newtonsoft.Json.dll
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Release\System.Web.Optimization.dll
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Release\Yahoo.Yui.Compressor.dll
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\bin\Release\EcmaScript.NET.dll
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\obj\Release\GSWEB.vbprojResolveAssemblyReference.cache
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\obj\Release\GSWEB.Resources.resources
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\obj\Release\GSWEB.vbproj.GenerateResource.Cache
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\obj\Release\GSWEB.dll
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\obj\Release\GSWEB.xml
+D:\CATHERINE\Projects\New Golden\Web\SOLUTION\GSWEB\obj\Release\GSWEB.pdb
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Release\GSWEB.vbprojResolveAssemblyReference.cache
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Release\GSWEB.Resources.resources
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Release\GSWEB.vbproj.GenerateResource.Cache
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Release\GSWEB.dll
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Release\GSWEB.xml
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Release\GSWEB.pdb
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\GSWEB.dll
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\GSWEB.pdb
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\GSWEB.xml
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\Ionic.Zip.dll
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\Newtonsoft.Json.dll
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\System.Web.Optimization.dll
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\Yahoo.Yui.Compressor.dll
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\EcmaScript.NET.dll
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\System.Net.Http.Formatting.xml
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\System.Web.Http.xml
+E:\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\GSWEB.pdb
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\GSWEB.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\Ionic.Zip.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\Newtonsoft.Json.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\System.Web.Optimization.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\Yahoo.Yui.Compressor.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\EcmaScript.NET.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\System.Net.Http.Formatting.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\System.Web.Http.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Release\GSWEB.vbprojResolveAssemblyReference.cache
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Release\GSWEB.Resources.resources
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Release\GSWEB.vbproj.GenerateResource.Cache
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Release\GSWEB.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Release\GSWEB.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\SOLUTION\GSWEB\obj\Release\GSWEB.pdb
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Release\GSWEB.pdb
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Release\GSWEB.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Release\Ionic.Zip.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Release\Newtonsoft.Json.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Release\System.Web.Optimization.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Release\Yahoo.Yui.Compressor.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Release\EcmaScript.NET.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Release\System.Net.Http.Formatting.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Release\System.Web.Http.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\obj\Release\GSWEB.vbprojResolveAssemblyReference.cache
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\obj\Release\GSWEB.Resources.resources
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\obj\Release\GSWEB.vbproj.GenerateResource.Cache
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\obj\Release\GSWEB.dll
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\obj\Release\GSWEB.xml
+D:\Shared\PROJECTS\NEW GOLDEN CITY\GIT\NewGolden\Development\Solution\Web\GSWEB\obj\Release\GSWEB.pdb

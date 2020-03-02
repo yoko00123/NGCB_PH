@@ -1,0 +1,146 @@
+body{
+	margin: 0,0,0,0;
+/*	background-color:#666d74;
+	background-color:#ffffff;*/
+	   
+}
+
+tr.htmltreegrid_header{
+	font-weight: bold;
+	vertical-align: top;
+	text-align: center;
+	cursor : hand;	
+}
+
+tr{
+background-color:#ffffff;
+}
+
+tr.htmltreegrid_group
+{
+text-transform:uppercase;
+	font-weight: bold;
+}
+
+tr.htmltreegrid_groupfooter
+{
+text-transform:uppercase;
+	font-weight: bold;
+	    text-align: right;
+	    background-color:#a6a6a6;
+
+}
+
+tr.htmltreegrid_tablefooter
+{
+    text-transform:uppercase;
+    font-weight: bold;
+    text-align: right;
+    color:White;
+}
+
+td{
+    border-style: solid;
+   
+    border-width: 1px;    
+}
+
+
+td.htmltreegrid_group{
+    border-style: none; 
+    border-width: 0px;    
+    text-align:left;
+    color:Black;
+}
+
+
+td.htmltreegrid_id{
+    border-style: none; 
+    border-width: 0px;   
+  
+    text-align:right ;
+   
+    color:black;
+    width:16px;
+}
+
+td.htmltreegrid_icon{
+  border-style: none; 
+    border-width: 0px;  
+
+/*    border-style: solid; 
+    border-width: 1px;   */
+ 
+  
+    text-align:right;
+    color:Black;
+   width:16px;
+   /*vertical-align:top;*/
+   
+}
+
+
+img.htmltreegrid_imagefile {
+	border:0px;
+	height:32px;
+	width:32px;
+}
+
+img.htmltreegrid_sortglyph{
+	border:0px;
+	height:8px;
+	width:8px;
+}
+
+
+img.htmllist_16x16{
+	border:0px;
+	height:16px;
+	width:16px;
+}
+
+a {
+    text-decoration :none;
+	color:#000000;
+}
+
+a:link {color:#000000;}      /* unvisited link */
+/*a:visited {color:#00FF00;}   visited link */
+a:hover {color:#0000ff;}  /* mouse over link */
+a:active {color:#0000ff;}  /* selected link */
+
+div.hcg_date {
+    width:23px;
+    border:outset;
+    white-space:nowrap;
+    font-weight:bold;
+    background-color:#FFF;
+    text-align : center ;
+    }
+
+tr.alt_color0 {
+background-color:#fcfcfc;
+}
+/*td.calendarheight */
+td.hcg_cell 
+{
+height:100px;
+ width:150px;
+}
+span.hgc_left {
+    font-size:24px;
+    writing-mode:bt-rl   ;
+    filter : fliph() flipv()   ;
+}
+th.calendarheightday {
+height:10px;
+}
+th.htmltreegrid_function{
+    color: white;
+    text-align: right;
+    vertical-align: middle;
+    border: 1px solid;
+    	    	font-family: Verdana;
+	font-size: 7pt;
+	font-weight:normal;
+}
